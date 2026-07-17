@@ -24,15 +24,6 @@ AI 工程师 & Bot 开发者，目前专注于 **LLM Agent 架构**、**Bot 运�
 
 ---
 
-### 📝 Recent Writing & Notes
-
-- **[2026 AI 工具推荐](https://github.com/StuGRua/personal_knowledge)** — 日常使用的 AI 工具链整理
-- **[2026 AI 信源推荐](https://github.com/StuGRua/personal_knowledge)** — AI 领域高质量信息源
-- **[Agent 开发工程师快速入门学习路径](https://github.com/StuGRua/personal_knowledge)** — 从零构建智能体的学习路线
-- **[视觉叙事：分镜与构图入门](https://github.com/StuGRua/personal_knowledge)** — 非科班出身的分镜学习笔记
-- **[Bot / Agent 架构学习笔记](https://github.com/StuGRua/personal_knowledge)** — AstrBot / LangBot / MaiBot 核心设计对照
-- **[BlackSouls AI 系列剧策划](https://github.com/StuGRua/blacksouls_ai_series_plan)** — 基于 AI 的黑童话同人改编
-
 ---
 
 ### 🎯 Current Focus (2026)
