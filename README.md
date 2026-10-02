@@ -1,66 +1,38 @@
-### 👋 Hey, I'm RefactoringHero
+# 👋 Hi, I'm RefactoringHero
 
-AI 工程师 & Bot 开发者，目前专注于 **LLM Agent 架构**、**Bot 运行时设计**与 **AI 视频本地化**。  
-家里跑着一台 Homelab 服务器，上面挂着 QQ Bot、自托管服务、Token 用量追踪和各种实验项目。  
-工作流重度依赖 Claude Code + Trellis，热衷于把重复劳动交给 Agent，把时间留给真正有创造性的工作。
+写代码，也做视频。最近的重心是 **Agent 工程、字幕本地化和 AI 辅助创作**。
 
-> 曾经的签名是「在遗留代码里游泳」，现在游到了 AI 这头。  
-> ~~PHP 是世界上最好的语言~~ — 开个玩笑，现在主要写 Python / Go / TypeScript / Rust。
+我喜欢从自己会用的东西开始：给 Bot 加功能，把字幕工作流做顺，再用代码和 AI 把脑内分镜做成动画。也维护着一台 Homelab，跑自托管服务和各种实验。
 
----
+> 曾经在遗留代码里游泳，现在偶尔还得给鲸鱼娘调动作。
 
-### 🛠️ Tech Stack
+## 最近在折腾
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tauri-FFC131?style=flat-square&logo=tauri&logoColor=black" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-</p>
+- **Agent / Bot**：研究工具调用、上下文与长期记忆，在插件和自托管服务里实践。
+- **Reelocal**：持续打磨本地优先的字幕翻译工具，从转写、术语管理到翻译、人工审校和 SRT 导出。
+- **音乐与动画二创**：做角色改编、双语字幕和典故注释，也在尝试 Synthwave、MAD 与分镜叙事。
 
----
+## 一些作品
 
----
+| 项目 | 做了什么 |
+| --- | --- |
+| [TokenArena](https://github.com/StuGRua/TokenArena) | 基于 poco-ai/TokenArena 的独立维护 Fork，补充 AstrBot 用量采集、时间维度明细等功能。 |
+| AstrBot：[Twitter](https://github.com/StuGRua/astrbot_plugin_twitter) · [TrumpWatcher](https://github.com/StuGRua/astrbot_plugin_trumpwatcher) | 维护 Twitter 插件 Fork，并开发 Truth Social 监控插件，把动态订阅、翻译和推送接入 Bot。 |
+| [鲸鱼娘 × P(doom)](https://github.com/StuGRua/PDoomVideo) | 基于 JohnHeibel/PDoomVideo 的角色改编，加入中英双语字幕、画面本地化与典故注释。 |
+| [Trick Heart · 洛琪希 PV](https://github.com/StuGRua/trick-heart-roxy-pv) | AI 人物原画与动作差分、Python/OpenCV 合成；整理了字幕、复现工程和制作笔记。 |
 
-### 🎯 Current Focus (2026)
+## 文字与好奇心
 
-```
-┌─ AI Agent 架构 ─────────────────────────────────────┐
-│  AstrBot · LangBot · MaiBot 核心设计对照研究          │
-│  Pipeline vs Actor Runtime · Tool Loop · 长期记忆      │
-└─────────────────────────────────────────────────────┘
+在 [悬浮猫图书馆](https://stugrua.github.io/blog/) 写 AI 工具、阅读与作品解析。最近的一篇是 [《P(doom)》歌词、典故与解析](https://stugrua.github.io/blog/pdoom-lyrics-and-allusions)。
 
-┌─ 视频本地化管线 ─────────────────────────────────────┐
-│  WhisperX ASR → LLM 翻译 → Multi-Agent QC             │
-│  Fate 系列专有名词库 · Human-in-the-loop               │
-└─────────────────────────────────────────────────────┘
+也在读 **LLM 机制与 AI 意识**的材料，关心生成式 AI 怎样改变游戏里的玩家体验，以及创作中人和 AI 各自做了什么。想把这些问题放进小实验和具体作品里继续琢磨。
 
-┌─ Homelab & 自托管 ───────────────────────────────────┐
-│  QQ Bot 全家桶 · TokenArena · frp 隧道                │
-│  Docker Compose · 7×24 稳定运行                        │
-└─────────────────────────────────────────────────────┘
-```
+## 工具箱
 
----
+常用 **Python / Go / TypeScript**，以及 React、Docker、Linux、FFmpeg、OpenCV。日常使用 Codex / Claude Code 与 Trellis 协作开发。
 
-### 🎨 Beyond Code
+## 不写代码的时候
 
-ACGN 重度用户 · Fate 系列考据党 · MyGO/Mujica 难民 · TRPG 玩家（CoC / Foundry VTT）· 偶尔拍点东西 · 在学视觉叙事
+Fate、寒蝉／海猫、视觉小说、TRPG（D&D / CoC）、群星 Mod。偶尔拍照，还在补分镜与构图的课。
 
-对 AI 视频创作、游戏 Mod 汉化、TRPG 工具链有持续兴趣。如果你也在这些方向上折腾，欢迎交流。
-
----
-
-<div align="center">
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=StuGRua&show_icons=true&theme=transparent&hide_border=true&title_color=6366f1&icon_color=6366f1&text_color=9ca3af&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-*Built with ☕ and Claude Code · Shanghai / UTC+8*
-
-</div>
+如果你也在折腾 Bot、AI 创作或游戏，欢迎交流。
